@@ -1,0 +1,18 @@
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint\Labirint\obj\Debug\Labirint.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\obj\Debug\Labirint.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\obj\Debug\Labirint.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\bin\Debug\Labirint.exe
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\bin\Debug\Labirint.pdb
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\Literal\Documents\Visual Studio 2015\Projects\2kurs2sem\Labirint 2\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
